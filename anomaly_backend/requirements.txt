@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+pandas
+numpy
+scikit-learn==1.7.0
+tensorflow
+python-dotenv
+joblib

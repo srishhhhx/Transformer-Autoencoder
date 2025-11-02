@@ -1,0 +1,9 @@
+/* Custom animations for anomaly detection dashboard */
+@keyframes flash-bg {
+  0% { background-color: #dc2626; }
+  100% { background-color: transparent; }
+}
+
+.animate-flash {
+  animation: flash-bg 0.8s ease-out;
+}
