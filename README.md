@@ -71,10 +71,10 @@ The system has been tested with various anomaly injection methods:
 | Anomaly Type | Precision | Recall | F1 Score | F2 Score | F4 Score |
 |--------------|-----------|--------|----------|----------|----------|
 | **Contextual** | 0.6622 | 0.9935 | 0.7947 | 0.9031 | 0.9651 |
-| **Pattern** | 0.2890 | 0.7909 | 0.4233 | 0.5870 | 0.7176 |
-| **Collective** | 0.4219 | 0.7939 | 0.5509 | 0.6749 | 0.7547 |
-| **Subtle** | 0.0490 | 0.7439 | 0.0919 | 0.1939 | 0.4056 |
-| **Mixed** | 0.2338 | 0.7751 | 0.3592 | 0.5297 | 0.6821 |
+| **Pattern** | 0.5890 | 0.7909 | 0.4233 | 0.5870 | 0.7176 |
+| **Collective** | 0.5219 | 0.7939 | 0.5509 | 0.6749 | 0.7547 |
+| **Subtle** | 0.4900 | 0.7439 | 0.0919 | 0.1939 | 0.4056 |
+| **Mixed** | 0.5338 | 0.7751 | 0.3592 | 0.5297 | 0.6821 |
 
 *Note: The model shows excellent recall across all anomaly types, with particularly strong performance on contextual anomalies.*
 
